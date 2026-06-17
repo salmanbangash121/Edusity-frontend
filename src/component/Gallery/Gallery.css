@@ -1,0 +1,16 @@
+.campus{
+    text-align: center;
+}
+.gallery{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 30px;
+}
+.gallery-1{
+   /* margin-left: 50px; */
+ 
+    width: 210px;
+    border-radius: 10px;
+
+}
