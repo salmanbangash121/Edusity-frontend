@@ -1,0 +1,14 @@
+.line{
+    border-top: 1px solid black;
+    /* width: 100%; */
+    height: 1px;
+    background-color:rgb(105, 103, 103);
+   
+}
+.Footer-data{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 0px;
+
+}
